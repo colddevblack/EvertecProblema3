@@ -1,0 +1,14 @@
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.exe
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.deps.json
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.runtimeconfig.json
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.runtimeconfig.dev.json
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.dll
+C:\Users\Cold\Documents\Evertec\Read\Read\bin\Debug\netcoreapp3.1\Read.pdb
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.csproj.AssemblyReference.cache
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.AssemblyInfoInputs.cache
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.AssemblyInfo.cs
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.csproj.CoreCompileInputs.cache
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.dll
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.pdb
+C:\Users\Cold\Documents\Evertec\Read\Read\obj\Debug\netcoreapp3.1\Read.genruntimeconfig.cache
